@@ -1,0 +1,18 @@
+#header{
+    width: 80%;
+    font-size: 50px;
+    
+}
+
+body{
+    background-color: black;
+    color: yellow
+}
+
+button{
+    font-size: 15px !important
+}
+
+b{
+    font-size: 20px
+}
